@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #eee;
+  background-color: #87CEEB;
   font-family: "Lato", sans-serif;
 }
 
@@ -41,7 +41,7 @@ a {
   font-weight: 900;
   text-transform: uppercase;
   border: 3px black solid;
-  border-radius: 2px;
+  border-radius: 20px;
   background: transparent;
   cursor: pointer;
 }
@@ -60,7 +60,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #eee;
+  background-color: #FFF;
   @media (max-width: 600px) {
     flex-wrap: wrap;
   }
@@ -304,4 +304,3 @@ footer {
     color: #444;
   }
 }
-
